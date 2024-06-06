@@ -1,0 +1,3 @@
+[submodule "trivial"]
+	path = trivial
+	url = git@github.com:EliahKagan/trivial.git
